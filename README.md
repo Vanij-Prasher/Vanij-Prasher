@@ -13,7 +13,7 @@ Transforming ideas into interactive & intelligent web experiences! Passionate ab
 
 🎨 Frontend Magic → Building responsive, user-friendly interfaces with sleek UI/UX.  
 🤖 AI & ML Wizardry → Exploring AI-driven solutions & deep learning models.  
-🧠 DSA & Problem Solving → Writing efficient & scalable code in JavaScript.  
+
 
 ━━━━━━━━━━━━━━━━━━━━━
 
